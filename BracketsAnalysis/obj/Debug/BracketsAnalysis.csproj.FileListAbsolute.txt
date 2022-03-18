@@ -1,0 +1,17 @@
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\bin\Debug\BracketsAnalysis.exe.config
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\bin\Debug\BracketsAnalysis.exe
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\bin\Debug\BracketsAnalysis.pdb
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.csproj.AssemblyReference.cache
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\MainWindow.g.cs
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\App.g.cs
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis_MarkupCompile.cache
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis_MarkupCompile.lref
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\MainWindow.baml
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.g.resources
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.Properties.Resources.resources
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.csproj.GenerateResource.cache
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.csproj.CoreCompileInputs.cache
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.exe
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\BracketsAnalysis.pdb
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\StackWithLinkList.g.cs
+C:\Users\AmirHossein\Desktop\ProjectDataStructure\BracketsAnalysis\BracketsAnalysis\obj\Debug\StackWithLinkList.baml
